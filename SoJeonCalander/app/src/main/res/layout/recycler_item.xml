@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_title"
+        android:text="제목"
+        android:textColor="@color/black"
+        android:textSize="23sp"
+        />
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_des"
+        android:text="내용은 많아여\n내용은 많아여\n내용은 많아여\n내용은 많아여\n내용은 많아여\n내용은 많아여\n내용은 많아여\n내용은 많아여\n"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        />
+</LinearLayout>

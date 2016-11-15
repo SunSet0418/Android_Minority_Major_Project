@@ -8,4 +8,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="asdf" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#edb58b</item>
+        <item name="colorPrimaryDark">#edb58b</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
 </resources>
